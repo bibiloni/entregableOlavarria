@@ -1,0 +1,82 @@
+
+.recuadro1{
+    display: flex;
+    flex-direction: row;
+    width: 1060px;
+    height: 250px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+    .verde {
+        width: 220px;
+        height: 150px;
+        background-color: greenyellow;
+    }
+    .gris{
+        width: 820px;
+        height: 150px;
+        background-color: rgb(114, 112, 112); 
+        
+    }
+    .crema{
+        width: 1100px;
+        height: 50px;
+        background-color: rgb(236, 215, 169);
+        border: 6px solid black;
+        align-content: space-around;
+    }  
+
+.recuadro2{
+        display:flex;
+        flex-direction: row;
+        width: 1060px;
+        height: 270px;
+        justify-content: space-between;
+    }
+
+    .violeta {
+        width: 280px;
+        height: 270px;
+        background-color: rgb(178, 70, 192);
+    }
+    .celeste{
+        width: 370px;
+        height: 250px;
+        background-color: rgb(41, 128, 241); 
+    }
+    .rosa{
+        width: 370px;
+        height: 250px;
+        background-color: rgb(253, 139, 225);        
+    }
+
+.recuadro3{
+    display:flex;
+    flex-direction: row;
+    width: 1060px;
+    height: 290px;
+    justify-content: space-between;
+}
+
+    .naranja{
+        width: 760px;
+        height: 270px;
+        background-color: orange;
+    }
+
+.recuadro4{
+    display:flex;
+    flex-direction: row;
+    width: 1060px;
+    height: 165px;
+    
+}    
+
+    .turquesa{
+        width: 1060px;
+        height: 150px;
+        background-color: rgb(12, 177, 214);
+        border: 6px dashed black;
+        align-content: space-around;
+    }
